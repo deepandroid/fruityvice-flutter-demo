@@ -1,6 +1,6 @@
 # Fruityvice-Flutter-Demo
 
-*This is a demo in flutter using BLoC pattern
+This is a demo in flutter using BLoC pattern
 
 Read the doc for https://www.fruityvice.com/
 
