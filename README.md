@@ -1,5 +1,7 @@
 # fruityvice-flutter-demo
 
+# This is a demo in flutter using BLoC pattern
+
 Read the doc for https://www.fruityvice.com/
 
 First screen will have two bottom navigation options (Search, Fetch all)
@@ -8,14 +10,6 @@ First screen will have two bottom navigation options (Search, Fetch all)
 
 - On tap of any item it will open Fruit Details screen which will show all details about the fruit
 
-- Click on 2nd bottom navigation option will fetch all the fruits and show them as
-
-a list
+- Click on 2nd bottom navigation option will fetch all the fruits and show them as a list
 
 - Appbar for the first screen will have a history icon on tap of this the will show all searched items for the current session.
-
-Things to keep in mind:
-
-As this task is quite simple Im expecting some basic animations and decent Ul.
-
-Use any State Management apart from Getx.
